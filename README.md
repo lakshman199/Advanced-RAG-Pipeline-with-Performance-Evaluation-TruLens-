@@ -1,4 +1,4 @@
-# Advanced RAG Pipeline: Retrieval Optimization and Performance Evaluation
+# RAG Retrieval Optimization & Evaluation Framework
 
 An evaluation-driven Retrieval-Augmented Generation (RAG) project that compares **Sentence Window Retrieval** and **Auto-Merging Retrieval** using relevance, groundedness, latency, and cost measurements.
 
